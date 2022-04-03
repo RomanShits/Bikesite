@@ -407,7 +407,7 @@ margin-right: 25px;
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background-image: url(./assets/images/footer_intro_02.png);
+  background-image: url(../images/footer_intro_02.png);
   background-size: cover;
 }
 
@@ -420,7 +420,7 @@ margin-right: 25px;
   max-width: 100%;
   height: 350px;
   max-height: 100%;
-  background-image: url(./assets/images/email_title_04.png) ;
+  background-image: url(../images/email_title_04.png) ;
 }
 
 .footer_title {
